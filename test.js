@@ -9,4 +9,4 @@ function test(expectedSecret) {
   return secretMatches;
 }
 
-test("hello");
+test(42);
